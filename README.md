@@ -6,33 +6,34 @@
 ## Project Overview
 The goal of this project is to predict the sales price of houses using various machine learning techniques. The project involves preprocessing the data, selecting important features, building and tuning models, and evaluating their performance.<br>
 
-The project is structured as follows:
-• Read CSV File: Load the training and testing datasets.
-• Check Missing Values: Identify and handle missing values.
-• Decide Strategy for Continuous and Categorical Features: Impute missing values for continuous features using the mean strategy and for categorical features using the most frequent or constant strategy.<br>
+The project is structured as follows:<br>
+• Read CSV File: Load the training and testing datasets.<br>
+• Check Missing Values: Identify and handle missing values.<br>
+• Decide Strategy for Continuous and Categorical Features: <br>
+Impute missing values for continuous features using the mean strategy and for categorical features using the most frequent or constant strategy.<br>
 
-#### Sklearn Pipeline:
-• Feature Selection: Select important features using forward or backward selection with Linear Regression.
-• Final Pipeline: Create a pipeline for preprocessing and model building.
-• Train-Test Split: Split the data into training and testing sets.
-• Final Model Building: Build and tune Ridge and Lasso regression models using GridSearchCV.
-• Model Prediction: Predict house prices for the training and testing sets.
-• Model Evaluation: Evaluate the models using MSE, RMSE, MAE, R²
-• Predict Testing Set: Predict the house prices for the provided test set.
+#### Sklearn Pipeline:<br>
+• Feature Selection: Select important features using forward or backward selection with Linear Regression.<br>
+• Final Pipeline: Create a pipeline for preprocessing and model building.<br>
+• Train-Test Split: Split the data into training and testing sets.<br>
+• Final Model Building: Build and tune Ridge and Lasso regression models using GridSearchCV.<br>
+• Model Prediction: Predict house prices for the training and testing sets.<br>
+• Model Evaluation: Evaluate the models using MSE, RMSE, MAE, R².<br>
+• Predict Testing Set: Predict the house prices for the provided test set.<br>
 
-#### Metrics
-The models are evaluated using the following metrics:
-• Mean Squared Error (MSE)
-• Root Mean Squared Error (RMSE)
-• Mean Absolute Error (MAE)
-• R² (R-squared)
+#### Metrics<br>
+The models are evaluated using the following metrics:<br>
+• Mean Squared Error (MSE)<br>
+• Root Mean Squared Error (RMSE)<br>
+• Mean Absolute Error (MAE)<br>
+• R² (R-squared)<br>
 
-#### Data
-The data for this project includes the following files:
-training_set.csv: The training dataset containing house features and sale prices.
-testing_set.csv: The testing dataset for which house prices need to be predicted.
+#### Data<br>
+The data for this project includes the following files:<br>
+training_set.csv: The training dataset containing house features and sale prices.<br>
+testing_set.csv: The testing dataset for which house prices need to be predicted.<br>
 
-#### Libraries used
-• pandas
-• numpy
-• scikit-learn
+#### Libraries used<br>
+• pandas<br>
+• numpy<br>
+• scikit-learn<br>
