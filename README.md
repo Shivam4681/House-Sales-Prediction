@@ -1,6 +1,6 @@
 <h1 align="center">House Sales Price Prediction Using Machine Learning Regression Models</h1>
 <p align="center">
-<img src="Hr image.png">
+<img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fstaging.woontheater.be%2F%3Fo%3Dhouse-price-prediction-in-python-full-machine-learning-project-ee-J0LkqBTN&psig=AOvVaw17NwU_3-xa_sAWGB74AsWA&ust=1720508055158000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOi7kI_ulocDFQAAAAAdAAAAABAJ)">
 
 
 ## Project Overview
