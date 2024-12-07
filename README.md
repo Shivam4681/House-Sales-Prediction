@@ -3,7 +3,7 @@
 <img src="Image.png">
 
 
-## Project Overview
+## Project Overview 
 The goal of this project is to predict the sales price of houses using various machine learning techniques. The project involves preprocessing the data, selecting important features, building and tuning models, and evaluating their performance.<br>
 
 The project is structured as follows:<br>
